@@ -164,13 +164,7 @@ img {
   75%  { transform: translateY(25px)  rotateY(10deg); text-shadow: -5px 0px 0px #FC8; color: orange;}
   100% { transform: translateY(0px)   rotateY(5deg);  text-shadow: -3px 0px 0px #DfD; color: green; }
 }
-/*@keyframes text-reveal {
-  0%   { transform: rotateX(0deg); transform: rotateY(0deg); text-shadow: 0px 0px 0px #fff; color: green; }
-  25%  { transform: rotateX(5deg); transform: rotateY(10deg); text-shadow: -10px 5px 0px #D66; color: red;}
-  50%  { transform: rotateX(10deg); transform: rotateY(20deg); text-shadow: -20px 10px 0px #8CD; color: blue;}
-  75%  { transform: rotateX(5deg); transform: rotateY(10deg); text-shadow: -10px 5px 0px #FC8; color: orange;}
-  100% { transform: rotateX(0deg); transform: rotateY(0deg); text-shadow: 0px 0px 0px #fff; color: green; }
-}*/
+
 
 .fade-up-out {
   animation: fade-up-out .7s ease-in forwards;
